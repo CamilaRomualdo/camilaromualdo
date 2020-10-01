@@ -1,16 +1,23 @@
-### Welcome
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-Hi there! My name is Camila, I'm a front-end developer specializing in full-stack developer.
+```diff
 
-Personal website: [Camila Romualdo](https://camilaromualdo.com/)
+Welcome
 
-### Skills ([view all projects](https://github.com/CamilaRomualdo?tab=repositories))
-- Angular
-- Ionic
-- Java
-- React
+# About
+Hi there! My name is Camila,
+I'm a front-end developer specializing in full-stack developer.
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+# Contact
+! Personal website: https://camilaromualdo.com/
+
+# Skills 
++ Angular, Ionic, Java and React.
+
+# 📖 Programming, development and design.
+
+```
 
 <!--
 **CamilaRomualdo/camilaromualdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
