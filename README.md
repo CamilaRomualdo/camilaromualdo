@@ -7,10 +7,10 @@ Welcome
 
 # About
 Hi there! My name is Camila,
-I'm a front-end developer specializing in full-stack development.
+I'm a front-end developer specializing in fullstack development.
 
 # Contact
-! Personal website: https://camilaromualdo.com/
+! Personal website: https://camilaromualdo.com
 
 # Skills 
 + Angular, Ionic, Java and React.
