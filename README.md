@@ -7,10 +7,12 @@ Welcome
 
 # About
 Hi there! My name is Camila,
-I'm a front-end developer specializing in fullstack development.
+I'm a front-end developer specializing in software development.
 
 # Contact
-! Personal website: https://camilaromualdo.com
+For more information about me, check out:
+! Github Pages -> https://camilaromualdo.github.io
+! Personal website -> https://camilaromualdo.com
 
 # Skills 
 + Angular, Ionic, Java and React.
@@ -20,6 +22,7 @@ I'm a front-end developer specializing in fullstack development.
 ```
 
 <!--
+
 **CamilaRomualdo/camilaromualdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
