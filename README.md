@@ -8,7 +8,7 @@ Welcome
 # About
 
 Hi there! My name is Camila,
-I'm a front-end developer specializing in software development.
+I'm a front-end developer specializing in software engineer.
 
 # Contact
 
@@ -22,9 +22,8 @@ I   ->  Beginner;
 II  ->  Intermediate; 
 III ->  Advanced.
 
-+ Angular [II], Ionic [II], Java [I] and React [I].
++ Angular [II], Ionic [II], Java [I], Kotlin [I] and React [II].
 
-# 📖 Programming, development and design.
 
 ```
 
