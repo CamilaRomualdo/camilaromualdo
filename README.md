@@ -5,23 +5,16 @@ Welcome
 
 # About
 
-Hi there! My name is Camila,
-I'm a front-end developer specializing in software engineer.
+Hi there!
+I'm Camila, a seasoned software developer
+with expertise in leveraging cutting-edge front-end technologies.
 
 # Contact
 
 For more information about me, check out:
+
 ! Github Pages -> https://camilaromualdo.github.io
-! Personal website -> https://camilaromualdo.com
-
-# Skills 
-
-I   ->  Beginner; 
-II  ->  Intermediate; 
-III ->  Advanced.
-
-+ Angular [II], Ionic [II], Java [I], Kotlin [I] and React [II].
-
+! Linkedin -> https://www.linkedin.com/in/camila-romualdo/
 
 ```
 
