@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Camila, a seasoned software developer<br>with expertise in leveraging cutting-edge front-end technologies.</p>
+<p align="left">I'm Camila, a software developer with a strong background in front-end technologies.<br>I love working with modern tech and building applications that make a difference..</p>
 
 ###
 
