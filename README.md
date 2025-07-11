@@ -4,7 +4,7 @@
 
 ###
 
-<a align="center" href="https://imgbb.com/"><img height="150" src="https://i.ibb.co/8DXqg59/vue-color-avatar.png" border="0"></a>
+<a align="center" href="https://imgbb.com/"><img height="150" src="vue-color-avatar.png" border="0"></a>
 
 ###
 
